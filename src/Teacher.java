@@ -1,7 +1,7 @@
 
 public abstract class Teacher extends Person {
 
-protected double baseSalary;
+	protected double baseSalary;
     
     public Teacher(String name, int age, double baseSalary) {
         super(name, age);

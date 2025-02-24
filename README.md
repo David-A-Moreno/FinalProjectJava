@@ -64,4 +64,4 @@ The code is organized into packages for better maintainability:
 
 **Git Usage**:
 
-The project uses proper Git practices including a .gitignore file, multiple branches, and regular commits. Refer to the repository documentation for more details.
+The project uses proper Git practices including a .gitignore file, multiple branches, and regular commits.

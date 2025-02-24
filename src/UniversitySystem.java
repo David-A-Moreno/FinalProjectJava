@@ -27,10 +27,10 @@ public class UniversitySystem {
         teachers.add(pt2);
         
         // Se crean 6 estudiantes
-        Student s1 = new Student("Juan", "S001", 20);
-        Student s2 = new Student("Luisa", "S002", 21);
-        Student s3 = new Student("Andres", "S003", 22);
-        Student s4 = new Student("Camila", "S004", 19);
+        Student s1 = new Student("Juan", "S001", 21);
+        Student s2 = new Student("Luisa", "S002", 22);
+        Student s3 = new Student("Andres", "S003", 23);
+        Student s4 = new Student("Camila", "S004", 18);
         Student s5 = new Student("Steven", "S005", 23);
         Student s6 = new Student("Alejandro", "S006", 20);
         

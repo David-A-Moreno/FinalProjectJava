@@ -22,7 +22,7 @@ Before running the program, ensure you have the following installed:
 1. **Clone the Repository**  
    Open Git Bash and run:
    ```bash
-   https://github.com/David-A-Moreno/FinalProjectJava.git
+   git clone https://github.com/David-A-Moreno/FinalProjectJava.git
 
 2. **Clone the Repository**  
    Open Git Bash and run:

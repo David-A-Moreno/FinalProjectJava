@@ -1,5 +1,12 @@
+package main;
 import java.util.ArrayList;
 import java.util.List;
+
+import model.FullTimeTeacher;
+import model.PartTimeTeacher;
+import model.Student;
+import model.Teacher;
+import model.UniversityClass;
 
 public class UniversitySystem {
 	private List<Teacher> teachers;
@@ -16,7 +23,7 @@ public class UniversitySystem {
     // Inicializa los datos mínimos requeridos
     private void initializeData() {
         // Se crean 2 profesores full time y 2 part time
-        FullTimeTeacher ft1 = new FullTimeTeacher("Profesol Jirafales",32, 1000, 5);
+        FullTimeTeacher ft1 = new FullTimeTeacher("Profesor Jirafales",32, 1000, 5);
         FullTimeTeacher ft2 = new FullTimeTeacher("Tronchatoro",30, 1200, 7);
         PartTimeTeacher pt1 = new PartTimeTeacher("Senor electrico",44, 800, 20);
         PartTimeTeacher pt2 = new PartTimeTeacher("Charles Francis Xavier",38, 900, 15);

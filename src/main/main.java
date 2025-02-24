@@ -1,4 +1,9 @@
+package main;
 import java.util.Scanner;
+
+import model.Student;
+import model.Teacher;
+import model.UniversityClass;
 
 public class main {
 

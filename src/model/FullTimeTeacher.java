@@ -1,7 +1,8 @@
+package model;
 
 public class FullTimeTeacher extends Teacher {
 
-private int experienceYears;
+	private int experienceYears;
     
     public FullTimeTeacher(String name, int age,  double baseSalary, int experienceYears) {
         super(name, age, baseSalary);
